@@ -1,0 +1,20 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/auth/login/page": "app/auth/login/page.js",
+  "/auth/callback/route": "app/auth/callback/route.js",
+  "/auth/register/page": "app/auth/register/page.js",
+  "/page": "app/page.js",
+  "/(dashboard)/colleges/[id]/page": "app/(dashboard)/colleges/[id]/page.js",
+  "/(dashboard)/communities/[code]/page": "app/(dashboard)/communities/[code]/page.js",
+  "/(dashboard)/dashboard/page": "app/(dashboard)/dashboard/page.js",
+  "/(dashboard)/admin/page": "app/(dashboard)/admin/page.js",
+  "/(dashboard)/discover/page": "app/(dashboard)/discover/page.js",
+  "/(dashboard)/colleges/page": "app/(dashboard)/colleges/page.js",
+  "/(dashboard)/messaging/page": "app/(dashboard)/messaging/page.js",
+  "/(dashboard)/feed/page": "app/(dashboard)/feed/page.js",
+  "/(dashboard)/events/page": "app/(dashboard)/events/page.js",
+  "/(dashboard)/network/page": "app/(dashboard)/network/page.js",
+  "/(dashboard)/profile/[id]/page": "app/(dashboard)/profile/[id]/page.js",
+  "/(dashboard)/notifications/page": "app/(dashboard)/notifications/page.js",
+  "/(dashboard)/opportunities/page": "app/(dashboard)/opportunities/page.js"
+}
